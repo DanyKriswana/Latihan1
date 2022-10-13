@@ -16,7 +16,7 @@ function Users() {
 
   return (
     <div>
-        <h1>Nama nama user</h1>
+        <h1>Nama nama User</h1>
         {
             user.map(data=> {
                 return(
